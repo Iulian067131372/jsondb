@@ -1,0 +1,34 @@
+{
+  "id": "300121925888",
+  "entryPoint": "205",
+  "isPaid": true,
+  "status": "3",
+  "message": "null",
+  "receiver": {
+    "type": "1",
+    "id": "2014027007634",
+    "name": "POPOVICI",
+    "firstName": "ION",
+    "email": "testrotaru@gmail.com",
+    "phone": "+37369859460"
+  },
+  "pickupPointCode": "181",
+  "orderSubmittedAt": "2024-04-20T12:30:33.6482898Z",
+  "deliveryAcceptedUntil": null,
+  "estimatedReadyAt": "2024-04-21T12:30:33.6482898Z",
+  "products": [
+    {
+      "code": "49",
+      "description": "Eliberarea CA persoanelor cu dizabilitate",
+      "price": 0,
+      "quantity": 1,
+      "length": 0,
+      "width": 0,
+      "height": 0,
+      "weight": 0,
+      "holderID": null,
+      "holderName": null,
+      "holderFirstName": null
+    }
+  ]
+}
